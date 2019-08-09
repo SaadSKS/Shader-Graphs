@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicGraphMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 687482494ca51184a946a26d9b90fc32,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: 0fe8df94eb892fd4181af4242d0dd477, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_35BB934B: 0
+    - Vector1_A5E15F6D: 0
+    - _AlphaVect: 0.92
+    - _BlendOpacity: 0.55
+    - _DetailSize: 0.1
+    - _Formation: 0.018
+    - _PulseSpeed: 2
+    - _PulseTime: 0
+    - _PulseToggle: 1
+    - _RotationT: 0
+    - _ScatterAmount: 0.32
+    - _ScatterDensity: 47.2
+    m_Colors: []
